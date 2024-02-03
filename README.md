@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.pinimg.com/originals/43/1a/37/431a378a36245dd2be6e870355af17f1.jpg)
+![MasterHead](https://i.pinimg.com/originals/43/1a/37/431a378a36245dd2be6e870355af17f1.jpg)
 
 <h1 align="center">Hi 👋, I'm Elif Kümbetli</h1>
 - 📫 How to reach me **elifkumbetli@gmail.com**
