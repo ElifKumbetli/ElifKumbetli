@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Elif Kümbetli</h1>
 - 📫 How to reach me **elifkumbetli@gmail.com**
 
