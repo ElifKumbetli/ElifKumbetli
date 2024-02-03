@@ -1,12 +1,12 @@
 
-![MasterHead](https://i.pinimg.com/originals/43/1a/37/431a378a36245dd2be6e870355af17f1.jpg)
+![MasterHead](https://i.pinimg.com/originals/ed/a2/4f/eda24f9719fc830848ec98dc045afeb5.jpg)
 
 <h1 align="center">Hi 👋, I'm Elif Kümbetli</h1>
 - 📫 How to reach me **elifkumbetli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/elif-kümbetli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elif-kümbetli" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elif-kümbetli-767169253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elif-kümbetli" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
